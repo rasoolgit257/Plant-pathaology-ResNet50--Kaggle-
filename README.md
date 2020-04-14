@@ -1,0 +1,1 @@
+# Plant-pathaology-ResNet50--Kaggle-
